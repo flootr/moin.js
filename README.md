@@ -6,9 +6,8 @@ JSON-API for ~~bavarian~~ hamburgerish greeting.
 
 [![npm status](https://nodei.co/npm/moin.js.svg?downloads=true&stars=true)](https://npmjs.org/package/moin.js)
 
-[![Build Status](https://travis-ci.org/peerigon/moin.js.svg?branch=master)](https://travis-ci.org/peerigon/moin.js)
-[![Dependency Status](https://david-dm.org/peerigon/moin.js.svg)](https://david-dm.org/peerigon/moin.js)
-[![Coverage Status](https://img.shields.io/coveralls/peerigon/moin.js.svg)](https://coveralls.io/r/peerigon/moin.js?branch=master)
+[![Build Status](https://travis-ci.org/flootr/moin.js.svg)](https://travis-ci.org/flootr/moin.js)
+[![Dependency Status](https://david-dm.org/flootr/moin.js.svg)](https://david-dm.org/flootr/moin.js)
 
 ## Getting started
 
