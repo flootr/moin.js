@@ -1,18 +1,18 @@
 {
-  "name": "servus.js",
+  "name": "moin.js",
   "version": "0.0.1",
-  "description": "Servus as a Service (SaaS)",
+  "description": "Moin as a Service (MaaS)",
   "main": "app.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
     "start": "node app.js",
-    "test": "node test/servus.test.js"
+    "test": "node test/moin.test.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/peerigon/servus.js.git"
+    "url": "https://github.com/flootr/moin.js.git"
   },
   "keywords": [
     "Servus",
@@ -21,7 +21,7 @@
   "author": "peerigon",
   "license": "unlicense",
   "bugs": {
-    "url": "https://github.com/peerigon/servus.js/issues"
+    "url": "https://github.com/flootr/moin.js/issues"
   },
-  "homepage": "https://github.com/peerigon/servus.js"
+  "homepage": "https://github.com/flootr/moin.js"
 }
