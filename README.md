@@ -4,11 +4,11 @@ Moin as a Service (MaaS)
 JSON-API for ~~bavarian~~ hamburgerish greeting.
 
 
-[![npm status](https://nodei.co/npm/servus.js.svg?downloads=true&stars=true)](https://npmjs.org/package/servus.js)
+[![npm status](https://nodei.co/npm/moin.js.svg?downloads=true&stars=true)](https://npmjs.org/package/moin.js)
 
-[![Build Status](https://travis-ci.org/peerigon/servus.js.svg?branch=master)](https://travis-ci.org/peerigon/servus.js)
-[![Dependency Status](https://david-dm.org/peerigon/servus.js.svg)](https://david-dm.org/peerigon/servus.js)
-[![Coverage Status](https://img.shields.io/coveralls/peerigon/servus.js.svg)](https://coveralls.io/r/peerigon/servus.js?branch=master)
+[![Build Status](https://travis-ci.org/peerigon/moin.js.svg?branch=master)](https://travis-ci.org/peerigon/moin.js)
+[![Dependency Status](https://david-dm.org/peerigon/moin.js.svg)](https://david-dm.org/peerigon/moin.js)
+[![Coverage Status](https://img.shields.io/coveralls/peerigon/moin.js.svg)](https://coveralls.io/r/peerigon/moin.js?branch=master)
 
 ## Getting started
 
@@ -27,5 +27,5 @@ JSON-API for ~~bavarian~~ hamburgerish greeting.
 ### load tests
 
 ```
-jmeter -n -t Servus.jmx -l log.jtl
+jmeter -n -t moin.jmx -l log.jtl
 ```

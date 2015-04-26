@@ -37,7 +37,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     config.vm.provision "shell", inline: $script
 
     config.vm.network "private_network", ip: "192.168.50.100"
-    config.vm.hostname = "servus.js"
+    config.vm.hostname = "moin.js"
 
     config.vm.synced_folder ".", "/home/vagrant/project", type: "rsync", rsync__exclude: [".git/", ".vagrant/", "node_modules/"]
 
