@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/flootr/moin.js/issues"
   },
-  "homepage": "https://github.com/flootr/moin.js"
+  "homepage": "https://github.com/flootr/moin.js",
+  "devDependencies": {
+    "istanbul": "^0.3.13"
+  }
 }
