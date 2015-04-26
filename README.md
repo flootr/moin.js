@@ -1,5 +1,5 @@
 # moin.js
-Moin as a Service (SaaS)
+Moin as a Service (MaaS)
 
 JSON-API for ~~bavarian~~ hamburgerish greeting.
 
