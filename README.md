@@ -1,7 +1,7 @@
 # moin.js
 Moin as a Service (SaaS)
 
-JSON-API for a~~bavarian~~ hamburgerish greeting.
+JSON-API for ~~bavarian~~ hamburgerish greeting.
 
 
 [![npm status](https://nodei.co/npm/servus.js.svg?downloads=true&stars=true)](https://npmjs.org/package/servus.js)
