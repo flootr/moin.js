@@ -1,7 +1,7 @@
 'use strict';
 
 var http = require('http');
-var service = require('./lib/servus');
+var service = require('./lib/moin');
 
 http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'application/json'});
