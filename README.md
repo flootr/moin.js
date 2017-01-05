@@ -14,6 +14,7 @@ JSON-API for ~~bavarian~~ hamburgerish greeting.
 
 1. `git clone https://github.com/flootr/moin.js.git`
 2. `cd moin.js`
+3. `npm install`
 
 #### Start
 
