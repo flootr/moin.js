@@ -1,9 +1,0 @@
-app:
-  image: node
-  volumes:
-    - .:/code
-  working_dir: /code
-  command: npm start
-  ports:
-    - "9001:9001"
-

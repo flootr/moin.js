@@ -1,14 +1,10 @@
 {
   "name": "moin.js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Moin as a Service (MaaS)",
-  "main": "app.js",
-  "directories": {
-    "test": "test"
-  },
+  "main": "moin.js",
   "scripts": {
-    "start": "node app.js",
-    "test": "node test/moin.test.js"
+    "start": "node --harmony-async-await moin.js"
   },
   "repository": {
     "type": "git",
@@ -16,15 +12,17 @@
   },
   "keywords": [
     "Servus",
-    "Service"
+    "Service",
+    "Moin",
+    "Hamburg"
   ],
-  "author": "peerigon",
+  "author": "Markus Dobmann <markus@mpnjs.com>",
   "license": "unlicense",
   "bugs": {
     "url": "https://github.com/flootr/moin.js/issues"
   },
   "homepage": "https://github.com/flootr/moin.js",
-  "devDependencies": {
-    "istanbul": "^0.3.13"
+  "dependencies": {
+    "micro": "^6.1.0"
   }
 }
