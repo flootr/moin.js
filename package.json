@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/flootr/moin.js",
   "dependencies": {
-    "micro": "^6.1.0"
+    "micro": "^7.0.6"
   }
 }
