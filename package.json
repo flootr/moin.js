@@ -4,7 +4,10 @@
   "description": "Moin as a Service (MaaS)",
   "main": "moin.js",
   "scripts": {
-    "start": "node --harmony-async-await moin.js"
+    "start": "node moin.js"
+  },
+  "engines": {
+    "node": ">=7.6.0"
   },
   "repository": {
     "type": "git",
